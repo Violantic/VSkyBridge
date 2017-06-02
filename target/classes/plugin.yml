@@ -1,0 +1,9 @@
+name: SkyBridge
+version: 0.0.6
+main: skybridge.SkyBridge
+author: Borawski
+description: Custom minigame, use blocks to get to another persons base.
+
+commands:
+     coins:
+          description: Set/Give/Take coins from somebody
